@@ -19,3 +19,9 @@ Requirements:
 5. Executing MODAPro
    1) Fill in the parameter file: Params.txt.
    2) Execute the main function: main.py.
+
+6. Downloaded example data
+   1) Background biological network data: Files shared via web disk: biological_network
+Link: https://pan.baidu.com/s/1975Kx6vgzeDTIE2f4XxNig Extract code: 0714. After downloading files and saving at 'database/biological_network'.
+   2) Example inputted data: Files shared via web disk: TCGA_GBM
+Link: https://pan.baidu.com/s/1difKOcxmVCU7lVkyIt43eA Extract code: 0714. After downloading files and saving at 'data/TCGA_GBM'.
