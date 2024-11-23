@@ -1,7 +1,6 @@
 # MODAPro
 MODAPro: Heterogeneous Graph convolutional networks framework for Interpretable Mining novel Hub Molecules with Functional Prompt
-1. Code Runtime Environment
-conda env create -f path\environment.yml
+1. Code Runtime Environment: conda env create -f path\environment.yml
 2. Installed 'sparse_tools', referred to: https://github.com/Yangxc13/sparse_tools
    
 3. Preparing Raw Omics Data
