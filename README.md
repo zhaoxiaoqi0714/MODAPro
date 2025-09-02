@@ -1,5 +1,8 @@
 # MODAPro
 MODAPro: Heterogeneous Graph convolutional networks framework for Interpretable Mining novel Hub Molecules with Functional Prompt
+License
+MODAPro is distributed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0) for all original code. The software also incorporates third-party components released under permissive open-source licenses (MIT, Apache 2.0, BSD), which retain their original license terms.
+
 1. Code Runtime Environment: conda env create -f path\environment.yml
 2. Installed 'sparse_tools', referred to: https://github.com/Yangxc13/sparse_tools
    
